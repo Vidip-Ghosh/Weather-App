@@ -1,0 +1,138 @@
+.nav-contents li{
+    display: inline;
+    word-spacing: 30px;
+    font-size: 25px;
+    position: relative;
+    left: 190px;
+}
+
+.nav-contents a{
+    text-decoration: none;
+    color: rgb(40, 40, 146);
+}
+
+.nav-contents a:hover{
+    color: rgb(73, 73, 232);
+}
+
+.nav-contents .btn{
+    position: relative;
+   bottom: 5px;
+   left: 10px;
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 17px;
+}
+
+.nav-contents .btn:hover{
+    background-color: rgb(59, 59, 228);
+    height: 50px;
+    width: 130px;
+    cursor: pointer;
+ }
+
+.heading{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 300;
+    color: rgb(40, 40, 146);
+    font-size: 40px;
+    position: relative;
+    right: 140px;
+    top: 55px;
+}
+
+.heading-2{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    font-weight: 500;
+    color: rgb(40, 40, 146);
+    margin: 50px 0px 0px 130px;
+}
+
+.para{
+    margin-left: 130px;
+    font-size: 25px;
+    color: rgb(75, 74, 74);
+}
+
+.btn-2{
+   position: relative;
+   left: 130px;
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-size: 20px;
+}
+
+#img{
+    position: relative;
+   left: 900px;
+   height: 400px;
+   bottom: 290px;
+    width: 500px;
+}
+
+.values{
+    position: relative;
+    left: 60px;
+    width: fit-content;
+    bottom: 140px;
+    word-spacing: 20px;
+    box-shadow: 10px 10px 10px rgba(101, 158, 233, 0.50);
+}
+
+.text-center{
+    font-weight: 400;
+    color: rgb(40,40,146); 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+
+.values h3{
+    word-spacing: 0; 
+    color: rgb(40,40,146); 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.values li{
+    display: inline-block;
+    cursor: pointer;
+}
+
+.values img{
+    height: 300px;
+    width: 300px;
+}
+
+.list-1 h3{
+    word-spacing: 0; 
+    color: rgb(40,40,146); 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.list-2 h3{
+    word-spacing: 0; 
+    color: rgb(40,40,146); 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.list-1 p{
+    word-spacing: 0; 
+    color: grey; 
+    font-size: 20px; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.list-2 p{
+    word-spacing: 0; 
+    color: grey; 
+    font-size: 20px; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.list-2 li{
+    display: inline-block;
+    position: relative;
+    left: 350px;
+}
+
+.list-1 li{
+    display: inline-block;
+    position: relative;
+    left: 350px;
+}
